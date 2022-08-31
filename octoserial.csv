@@ -1,0 +1,15 @@
+Id,Designator,Package,Quantity,Designation,Ref,Supplier
+1,J1,USB_B_Lumberg_2411_02_Horizontal,1,USB_OTG,MC32596,https://fr.farnell.com/multicomp/mc32596/embase-usb-2-0-type-b-traversant/dp/1696537?st=usb%20b%20connector
+2,REF**,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,N/A,
+3,"R4,R3",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,2K,RC1206FR-072KL,https://fr.farnell.com/yageo/rc1206fr-072kl/res-2k-1-0-25w-1206-couche-epaisse/dp/3496206
+4,"R2,R1",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,2,4.7K,I Have,
+5,"C17,C16,C15,C14,C2",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,5,100nF,CC1206KRX7R9BB104,https://fr.farnell.com/yageo/cc1206krx7r9bb104/condensateur-0-1-f-50v-10-x7r/dp/718646
+6,"C9,C5",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2,22pF,MC1206N220J500CT,https://fr.farnell.com/multicomp/mc1206n220j500ct/cond-22pf-50v-5-c0g-np0-1206/dp/2320891?st=22pf%201206
+7,"C3,C1",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2,10uF,GRT31CR61H106KE01L,https://fr.farnell.com/murata/grt31cr61h106ke01l/condensateur-10-f-50v-10-x5r-1206/dp/2672214
+9,"TP13,TP12,TP11,TP10,TP9,TP8,TP7,TP6,TP5,TP4,TP3,TP2,TP1",TestPoint_Pad_D1.0mm,13,TestPoint,N/A,
+10,"D4,D3",LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,2,LED,I Have,
+11,U2,LQFP-48_7x7mm_P0.5mm,1,CH348Q,I Have,
+12,"J10,J9,J8,J7,J6,J5,J4,J3",PinSocket_1x03_P2.54mm_Horizontal,8,Conn_01x03_Male,I Have,
+13,"H4,H3,H2,H1",MountingHole_3.2mm_M3_Pad,4,MountingHole_Pad,N/A,
+14,Y1,Crystal_HC49-4H_Vertical,1,8MHz,ABL-8.000MHZ-B2,https://fr.farnell.com/abracon/abl-8-000mhz-b2/crystal-8mhz-18pf-hc-49us/dp/7940397?CMP=GRHB-OCTOPART
+15,U1,SOT-223-3_TabPin2,1,AMS1117-3.3,I Have,
